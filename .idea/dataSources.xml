@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="TestDB" uuid="6ffe316b-8c3e-4d00-9d38-6684a990021f">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:$PROJECT_DIR$/testDB.db</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="MusicDB" uuid="94cb61a5-ba8b-4e9c-8f87-5d5539a534a6">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:D:\IDEA_Projects\Java_Programming_Masterclass\TestJDBC\music.db</jdbc-url>
+    </data-source>
+  </component>
+</project>
